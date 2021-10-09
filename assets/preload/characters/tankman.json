@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-193
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tankman Right Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-320
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tankman DOWN note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-150
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tankman UP note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-223
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tankman Note Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-189
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tankman Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-195
+			],
+			"fps": 24,
+			"anim": "UGH",
+			"indices": [],
+			"name": "TANKMAN UGH"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-11,
+				-180
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Tankman Idle Dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				-170
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-143
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Tankman Right Note",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-100
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Tankman UP note",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tankmanCaptain",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-20
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "goc_succ",
+			"indices": []
+		},
+		{
+			"anim": "succ",
+			"fps": 24,
+			"name": "goc_succ",
+			"indices": []
+		},
+		{
+			"anim": "hate",
+			"fps": 24,
+			"name": "goc_fucking_hate",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "goc_left",
+			"indices": []
+		},
+		{
+
+			"loop": false,
+			"offsets": [
+				-130,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "goc_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "goc_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				2,
+				6
+			],
+			"name": "goc_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "goc_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				26
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky UP NOTE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goc_assets",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "spooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		126,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
